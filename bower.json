@@ -1,0 +1,22 @@
+{
+  "name": "fast-angular",
+  "version": "0.0.1",
+  "authors": [
+    "Jon Welzel <jonathan.welzel@totvs.com.br>"
+  ],
+  "description": "Example app showcasing AngularJs and React integration",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.10.0",
+    "angular": "~1.2.16"
+  }
+}
